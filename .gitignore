@@ -1,0 +1,35 @@
+# Unity (general)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache / artifacts
+sysinfo.txt
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+*.log
+
+# Crash reports
+crashlytics-build.properties
+
